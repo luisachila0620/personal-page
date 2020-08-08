@@ -1,13 +1,17 @@
-@import "~bootstrap/scss/bootstrap.scss";
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.fondo1{
+    width: 2000px;
+}
+.title{
+    text-align: center;
+    background-color: rgb(88, 49, 49);
+    height: 40px;
+    color: white
+}
+.single-img{
+     position: absolute;
+  top: 80px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  border: 3px solid #73AD21;
+}
